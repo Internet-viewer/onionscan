@@ -5,7 +5,7 @@ import (
 	"github.com/Internet-viewer/onionscan/config"
 	"github.com/Internet-viewer/onionscan/report"
 
-	"github.com/s-rah/onionscan/spider"
+	"github.com/Internet-viewer/onionscan/spider"
 	"github.com/Internet-viewer/onionscan/utils"
 	"net/http"
 )
