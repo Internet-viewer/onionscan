@@ -2,9 +2,9 @@ package deanonymization
 
 import (
 	"fmt"
-	"github.com/s-rah/onionscan/config"
-	"github.com/s-rah/onionscan/model"
-	"github.com/s-rah/onionscan/report"
+	"github.com/Internet-viewer/onionscan/config"
+	"github.com/Internet-viewer/onionscan/model"
+	"github.com/Internet-viewer/onionscan/report"
 	"github.com/Internet-viewer/onionscan/utils"
 	"net"
 	"net/url"
